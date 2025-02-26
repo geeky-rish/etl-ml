@@ -1,5 +1,5 @@
 # ETL-ML
-This is an **AI-driven ETL (Extract, Transform, Load) pipeline** that automates the data processing workflow with machine learning. Here's a **breakdown of the entire codebase** in **pure knowledge**:
+This is an **AI-driven ETL (Extract, Transform, Load) pipeline** that automates the data processing workflow with machine learning:
 
 ---
 
