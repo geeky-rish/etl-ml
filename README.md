@@ -1,5 +1,3 @@
-Here's your updated **AI-Driven ETL Pipeline Dashboard Documentation** with **Docker Implementation** included:  
-
 ---
 
 # **AI-Driven ETL Pipeline Dashboard - Documentation**  
