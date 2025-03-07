@@ -1,6 +1,6 @@
 ---
 
-# **AI-Driven ETL Pipeline Dashboard - Documentation**  
+# **AI-Driven ETL Pipeline - Documentation**  
 
 This project is an **AI-driven ETL (Extract, Transform, Load) pipeline** with a **Flask-based dashboard** for visualizing and analyzing processed data. It includes **data cleaning, outlier detection, clustering, and statistical analysis**, all presented in an interactive web interface.
 
