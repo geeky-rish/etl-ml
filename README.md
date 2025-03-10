@@ -56,8 +56,8 @@ COPY . .
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose port 5000 for Flask
-EXPOSE 5000
+# Expose port 5001 for Flask
+EXPOSE 5001
 
 # Run the Flask app
 CMD ["python", "etl_dashboard.py"]
@@ -75,7 +75,7 @@ services:
   web:
     build: .
     ports:
-      - "5000:5000"
+      - "5001:5001"
     volumes:
       - .:/app
     depends_on:
