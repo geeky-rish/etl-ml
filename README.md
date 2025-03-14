@@ -1,4 +1,4 @@
-# **Rudimentary AI - Driven ETL Pipeline - mk4**  
+# ** ETL Pipeline - mk4**  
 
 This project is an **AI-driven ETL (Extract, Transform, Load) pipeline** with a **Flask-based dashboard** for data processing, analysis, and visualization. It integrates **machine learning for outlier detection and clustering**, stores processed data in **MongoDB**, and offers an interactive web interface for insights.
 
